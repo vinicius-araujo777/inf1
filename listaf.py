@@ -119,3 +119,18 @@
 #n1 = int(input("numero "))
 #n2 = int(input("numero "))
 #op = input("+,-,×,÷ ")
+
+
+#Questão 12
+# p = int (input("digite um numero "))
+# def primo(p):
+#     cp = 0
+#     for x in range(1,p+1):
+#         if p % x == 0:
+#             cp += 1
+#     if cp > 2:
+#         return (f"{p} não é primo ")
+#     else:
+#         return (f"{p} é primo")
+
+# print(primo(p))
