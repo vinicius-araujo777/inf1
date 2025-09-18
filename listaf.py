@@ -81,6 +81,8 @@
 #		c += 1
 #print(saber_vogal(c))
 
+
+#Questão 9
 #import random
 #n = random.randint(1,20)
 #ne = int(input("digite um numero "))
