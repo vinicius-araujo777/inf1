@@ -3,7 +3,7 @@ from funcao import *
 listaviagens = []
 
 while True:
-    menu()  # Mostra o menu
+    menu()
     op = input("Escolha uma opção: ")
 
     if op == "0":
