@@ -1,2 +1,0 @@
-# inf1
-atividades
